@@ -57,7 +57,7 @@ class Decoder(srd.Decoder):
         ('chip', 'Index of chip in daisy-chain'),
         ('register', 'Registers written to the device'),
         ('digit', 'Digits displayed on the device'),
-        ('hu_warnings', 'Human-readable warnings'),
+        ('warning', 'Human-readable warnings'),
     )
     annotation_rows = (
         ('chip_nr', 'Chip Nr.', (ann_chip,)),
