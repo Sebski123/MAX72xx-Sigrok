@@ -20,6 +20,8 @@ The logic analyzer used was a Saleae Logic clone (at 2MHz):
   2           MOSI
   3           CLK
 
+MAX7219 settings:
+  Number of daisy-chained chips = 4
 
 Data
 ----
