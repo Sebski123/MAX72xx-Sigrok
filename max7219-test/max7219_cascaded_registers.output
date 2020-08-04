@@ -1,0 +1,31 @@
+52-412 MAX7219: Commands: Display test: on
+417-777 MAX7219: Commands: Display test: on
+783-1144 MAX7219: Commands: Display test: on
+1148-1508 MAX7219: Commands: Display test: on
+1548-1908 MAX7219: Commands: Decode: 0b00000000
+1913-2285 MAX7219: Commands: Decode: 0b00000000
+2290-2649 MAX7219: Commands: Decode: 0b00000000
+2655-3014 MAX7219: Commands: Decode: 0b00000000
+3054-3416 MAX7219: Commands: Intensity: 7
+3420-3780 MAX7219: Commands: Intensity: 7
+3785-4159 MAX7219: Commands: Intensity: 7
+4163-4523 MAX7219: Commands: Intensity: 7
+4563-4925 MAX7219: Commands: Scan limit: 8
+4929-5289 MAX7219: Commands: Scan limit: 8
+5295-5655 MAX7219: Commands: Scan limit: 8
+5660-6022 MAX7219: Commands: Scan limit: 8
+6061-6433 MAX7219: Commands: Display test: off
+6438-6798 MAX7219: Commands: Display test: off
+6804-7165 MAX7219: Commands: Display test: off
+7169-7529 MAX7219: Commands: Display test: off
+19593-19954 MAX7219: Commands: Shutdown: off
+19958-20317 MAX7219: Commands: Shutdown: off
+20323-20696 MAX7219: Commands: Shutdown: off
+20700-21061 MAX7219: Commands: Shutdown: off
+221104-221475 MAX7219: Commands: No-op: 
+221480-221839 MAX7219: Commands: No-op: 
+221845-222205 MAX7219: Commands: No-op: 
+422244-422603 MAX7219: Commands: No-op: 
+422609-422969 MAX7219: Commands: No-op: 
+422973-423332 MAX7219: Commands: No-op: 
+423337-423696 MAX7219: Commands: No-op: 
